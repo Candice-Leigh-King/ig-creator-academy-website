@@ -86,6 +86,7 @@
             --carouselBackgroundColor: {{site.data.colors.background-colors.carousel-background_color}};
             --formBackgroundColor: {{site.data.colors.form-colors.form-background_color}};
             --formArcheBackgroundColor: {{site.data.colors.form-colors.form-arche-background_color}};
+            --formTextColor: {{site.data.colors.form-colors.form-text_color}};
             --buttonColor: {{site.data.colors.form-colors.button_color}};
             --buttonTextColor: {{site.data.colors.form-colors.button-text_color}};
             --mediaKitButton: {{site.data.colors.media-kit.button_color}};
@@ -131,6 +132,15 @@
           .form-background_color {background-color: var(--formBackgroundColor);}
 
           .form-arche-background_color {background-color: var(--formArcheBackgroundColor);}
+
+          .input-text
+            {
+            border-bottom: solid 2px var(--formTextColor);
+            background-color: var(--formArcheBackgroundColor);
+            }
+            input::placeholder {color: var(--formTextColor);}
+            textarea::placeholder {color: var(--formTextColor);}
+            input, select, option, textarea {color: var(--formTextColor);}
 
           .button_color {
             background-color: var(--buttonColor);

@@ -86,6 +86,7 @@
             --carouselBackgroundColor: #64bcca;
             --formBackgroundColor: #acdde8;
             --formArcheBackgroundColor: #266570;
+            --formTextColor: #ffffff;
             --buttonColor: #64bcca;
             --buttonTextColor: #ffffff;
             --mediaKitButton: #c3a496;
@@ -131,6 +132,15 @@
           .form-background_color {background-color: var(--formBackgroundColor);}
 
           .form-arche-background_color {background-color: var(--formArcheBackgroundColor);}
+
+          .input-text
+            {
+            border-bottom: solid 2px var(--formTextColor);
+            background-color: var(--formArcheBackgroundColor);
+            }
+            input::placeholder {color: var(--formTextColor);}
+            textarea::placeholder {color: var(--formTextColor);}
+            input, select, option, textarea {color: var(--formTextColor);}
 
           .button_color {
             background-color: var(--buttonColor);

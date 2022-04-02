@@ -337,6 +337,8 @@ opacity: 1;
 
 .enquiry input {font-family: 'Poppins', sans-serif;}
 
+input::placeholder {color: #cbcbcb;}
+textarea::placeholder {color: #cbcbcb;}
 .input-text
   {
   font-size: 1rem;
@@ -417,7 +419,7 @@ option
   font-family: 'Poppins', sans-serif;
   background-color: transparent;
   border: none;
-  color: rgb(120,120,125);
+  color: transparent;
   }
 select {padding: 0.7rem 0 0.5rem}
 

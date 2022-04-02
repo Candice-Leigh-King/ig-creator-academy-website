@@ -86,6 +86,7 @@
             --carouselBackgroundColor: #64bcca;
             --formBackgroundColor: #acdde8;
             --formArcheBackgroundColor: #266570;
+            --formTextColor: #ffffff;
             --buttonColor: #64bcca;
             --buttonTextColor: #ffffff;
             --mediaKitButton: #c3a496;
@@ -131,6 +132,15 @@
           .form-background_color {background-color: var(--formBackgroundColor);}
 
           .form-arche-background_color {background-color: var(--formArcheBackgroundColor);}
+
+          .input-text
+            {
+            border-bottom: solid 2px var(--formTextColor);
+            background-color: var(--formArcheBackgroundColor);
+            }
+            input::placeholder {color: var(--formTextColor);}
+            textarea::placeholder {color: var(--formTextColor);}
+            input, select, option, textarea {color: var(--formTextColor);}
 
           .button_color {
             background-color: var(--buttonColor);
@@ -519,17 +529,17 @@ We are your full-service digital marketing company specialising in website devel
 
       <div class="col-10_sm-12 form-padded">
         <div class="floating-input ">
-          <input type="text" name="Your Name" placeholder="Your Name" class="input-text" required="" />
+          <input type="text" name="Your Name" placeholder="Your Name" class="input-text form-text_color" required="" />
           <label class="input-label">Your Name</label>
         </div>
 
         <div class="floating-input ">
-          <input type="text" name="Your Email Address" placeholder="Your Email Address" class="input-text" required="" />
+          <input type="text" name="Your Email Address" placeholder="Your Email Address" class="input-text form-text_color" required="" />
           <label class="input-label">Your Email Address</label>
         </div>
 
         <div class="floating-input ">
-          <input type="text" name="Your WhatsApp (if preferred)" placeholder="Your WhatsApp (if preferred)" class="input-text" />
+          <input type="text" name="Your WhatsApp (if preferred)" placeholder="Your WhatsApp (if preferred)" class="input-text form-text_color" />
           <label class="input-label">Your WhatsApp (if preferred)</label>
         </div>
 

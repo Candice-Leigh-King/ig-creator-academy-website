@@ -14,6 +14,7 @@ background-colors:
 form-colors:
   form-background_color: '#acdde8'
   form-arche-background_color: '#266570'
+  form-text_color: '#ffffff'
   button_color: '#64bcca'
   button-text_color: '#ffffff'
 navigation-colors:
