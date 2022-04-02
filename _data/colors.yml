@@ -22,8 +22,8 @@ navigation-colors:
   navigation-background_image:
   navigation-arch-background_image:
 footer-colors:
-  footer-background_color: '#F8DCC2'
-  social-icons_color: '#FAE6D4'
+  footer-background_color: '#acdde8'
+  social-icons_color: '#fae6d4'
 media-kit:
   button_color: '#c3a496'
   button-hover_color: '#FDFAF0'
