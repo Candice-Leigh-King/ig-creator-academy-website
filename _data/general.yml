@@ -1,6 +1,6 @@
 basics:
-  logo_image: /siteicon.png
-  logo-alt: The Explore Template Logo
+  logo_image:
+  logo-alt: IG Creator Academy Logo
   your-brand-name: IG Creator Academy
   email-address: md@kingcode.uk
   browser-tag_image: /favicon.ico
