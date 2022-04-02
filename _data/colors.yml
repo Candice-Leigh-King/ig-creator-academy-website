@@ -1,11 +1,11 @@
 text-colors:
-  hero_color: '#FDFAF0'
-  headings_color: '#CE967A'
-  subheadings_color: '#CE967A'
-  text_color: '#4c4c4c'
-  link_color: '#c3a496'
-  links-hover_color: '#FDFAF0'
-  hamburger_color: '#FDFAF0'
+  hero_color: '#ffffff'
+  headings_color: '#ffffff'
+  subheadings_color: '#ffffff'
+  text_color: '#ffffff'
+  link_color: '#266570'
+  links-hover_color: '#acdde8'
+  hamburger_color: '#266570'
 background-colors:
   image-and-text-background_color: '#FAE6D4'
   projects-background_color: '#F8DCC2'
@@ -20,7 +20,7 @@ navigation-colors:
   navigation-background_color: '#fae6d4'
   navigation-arche-background_color: '#f8dcc2'
   navigation-background_image:
-  navigation-arch-background_image: 
+  navigation-arch-background_image:
 footer-colors:
   footer-background_color: '#F8DCC2'
   social-icons_color: '#FAE6D4'
