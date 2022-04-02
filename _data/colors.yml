@@ -4,7 +4,7 @@ text-colors:
   subheadings_color: '#ffffff'
   text_color: '#ffffff'
   link_color: '#266570'
-  links-hover_color: '#acdde8'
+  links-hover_color: '#ffffff'
   hamburger_color: '#266570'
 background-colors:
   image-and-text-background_color: '#266570'
