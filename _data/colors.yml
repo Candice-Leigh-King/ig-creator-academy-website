@@ -17,8 +17,8 @@ form-colors:
   button_color: '#64bcca'
   button-text_color: '#ffffff'
 navigation-colors:
-  navigation-background_color: '#fae6d4'
-  navigation-arche-background_color: '#f8dcc2'
+  navigation-background_color: '#64bcca'
+  navigation-arche-background_color: '#acdde8'
   navigation-background_image:
   navigation-arch-background_image:
 footer-colors:
