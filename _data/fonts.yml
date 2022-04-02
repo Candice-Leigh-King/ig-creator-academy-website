@@ -1,5 +1,4 @@
-hero-font: Mak
-# hero-size_number: 6
-headings-font: Cyrene
-subheadings-font: Cyrene
+hero-font: Poppins, sans-serif
+headings-font: Poppins, sans-serif
+subheadings-font: Poppins, sans-serif
 text-font: Poppins, sans-serif
