@@ -12,7 +12,7 @@ background-colors:
   projects-text-background_color: '#f1887e'
   carousel-background_color: '#64bcca'
 form-colors:
-  form-background_color: '#64bcca'
+  form-background_color: '#acdde8'
   form-arche-background_color: '#266570'
   button_color: '#64bcca'
   button-text_color: '#ffffff'
