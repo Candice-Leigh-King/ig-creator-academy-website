@@ -4,7 +4,7 @@ text-colors:
   subheadings_color: '#ffffff'
   text_color: '#ffffff'
   link_color: '#266570'
-  links-hover_color: '#acdde8'
+  links-hover_color: '#ffffff'
   hamburger_color: '#266570'
 background-colors:
   image-and-text-background_color: '#266570'
@@ -17,14 +17,14 @@ form-colors:
   button_color: '#64bcca'
   button-text_color: '#ffffff'
 navigation-colors:
-  navigation-background_color: '#fae6d4'
-  navigation-arche-background_color: '#f8dcc2'
+  navigation-background_color: '#64bcca'
+  navigation-arche-background_color: '#acdde8'
   navigation-background_image:
   navigation-arch-background_image:
 footer-colors:
   footer-background_color: '#acdde8'
   social-icons_color: '#f1887e'
-  social-icons-inner_color: '#f1887e'
+  social-icons-inner_color: '#acdde8'
 media-kit:
   button_color: '#c3a496'
   button-hover_color: '#FDFAF0'
