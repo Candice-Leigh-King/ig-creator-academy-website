@@ -24,9 +24,9 @@ $(document).ready(function() {
 			draggable: true,
 			speed: 1000,
 			slidesToShow: 1,
-			 autoplay: true,
+			autoplay: true,
 			adaptiveHeight: true,
-			arrows: false
+			arrows : false,
 			});
 			});
 			});
