@@ -121,7 +121,7 @@ overflow-x: hidden;
 
 .banner
   {
-  background-size: cover;
+  background-size: left;
   background-position: center;
   }
 
@@ -480,6 +480,8 @@ footer {
     margin: 1%;
     top: -17px;
 }
+
+
 
 .medium-image
   {
