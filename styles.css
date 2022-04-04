@@ -121,8 +121,8 @@ overflow-x: hidden;
 
 .banner
   {
-  background-size: left;
-  background-position: center;
+  background-size: cover;
+  background-position: left;
   }
 
 .flex-flip:nth-child(2n){  flex-direction: row-reverse; }
