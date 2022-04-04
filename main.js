@@ -25,7 +25,8 @@ $(document).ready(function() {
 			speed: 1000,
 			slidesToShow: 1,
 			 autoplay: true,
-			adaptiveHeight: true
+			adaptiveHeight: true,
+			arrows: false
 			});
 			});
 			});
