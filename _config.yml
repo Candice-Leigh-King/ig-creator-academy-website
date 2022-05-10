@@ -7,7 +7,7 @@ _array_structures:
         value:
           _section-type: hero
           hero_image:
-          hero:
+          hero_html:
           link:
             description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
             link:
@@ -21,7 +21,7 @@ _array_structures:
             top_image:
             bottom_image:
           heading:
-          textarea:
+          textarea_html:
           link:
             description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
             link:
@@ -34,15 +34,15 @@ _array_structures:
           first-project:
             image:
             subheading:
-            textarea:
+            textarea_html:
           second-project:
             image:
             subheading:
-            textarea:
+            textarea_html:
           third-project:
             image:
             subheading:
-            textarea:
+            textarea_html:
           link:
             description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
             link:
@@ -53,7 +53,7 @@ _array_structures:
           background_image:
           heading:
           carousel:
-            textarea:
+            textarea_html:
             symbols:
             ending:
           link:
@@ -155,7 +155,7 @@ _select_data:
       - Maglony
       - Mak
       - Misto
-      - Dream Avenue  
+      - Dream Avenue
       - Amatic SC, cursive
       - Barlow Condensed, sans-serif
       - Belleza, sans-serif
