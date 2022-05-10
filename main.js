@@ -44,7 +44,6 @@ $(document).ready(function() {
 	if (elementTop < windowHeight - elementVisible) {
 	reveals[i].classList.add("active");
 	} else {
-	reveals[i].classList.remove("active");
 	}
 	}
 	}
